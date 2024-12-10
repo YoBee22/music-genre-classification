@@ -11,11 +11,11 @@ Libraries: librosa, numpy, pandas, scikit-learn, tensorflow, keras,
 Jupyter Notebooks for interactive development and visualization
 
 ## Repository Structure
-## DS5220 music genre classification.ipynb : 
-jupyter notebook with the python code
-## DS5220 PROJECT PROPOSAL : 
-ppt for the in-class presentation of the inital draft
-##features_30_sec.csv, features_30_sec.csv : 
-csv files with the data
-##DS5220 project report: 
-Project report with findings and results
+DS5220 music genre classification.ipynb : jupyter notebook with the python code  
+
+DS5220 PROJECT PROPOSAL : ppt for the in-class presentation of the inital draft  
+
+features_30_sec.csv, features_30_sec.csv : csv files with the data  
+
+DS5220 project report: Project report with findings and results  
+
